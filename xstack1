@@ -1,155 +1,133 @@
-// Spain ES
+// 1404/03/15 |Farzad |  t.me/xstack/250863
 
-// t.me/xstack/243545
-// x16spain.devefun.net
-//---------------------------
-trojan://r5VFFwsLj6@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-9iz78kpy1
-trojan://29UG2sB3kf@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-6fy9nb2s2
-trojan://xvx6ufchQi@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-utzpgx8v3
-trojan://2YYDJgMyoe@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-ujyteel14
-trojan://mHKMpmQJ04@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-32ualldm5
-trojan://m578KiZbzz@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-shwlt6ke6
-trojan://P2ev2HcTZq@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-oj5wyduh7
-trojan://yRnK3OiyMK@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-2iw2dp028
-trojan://CKoGkvO8Pf@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-juh2e4me9
-trojan://vNuPkWuZHF@x16spain.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x16spain.devefun.net#Telegram%3D%40xStack-wavom3c310
-vless://fcf10aa3-38cb-4d37-9339-eb9e925046c6@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-8p0ydem81
-vless://ab0af455-ad21-41e3-926b-1f57eced807a@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-fo6sf0ql2
-vless://06a1803b-50a5-4fce-800b-bfb018077829@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-pxod2n8p3
-vless://13f4e2fb-a425-4679-a6a6-f64382f7a1b1@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-ln8l2vth4
-vless://d00c335f-3836-4982-8663-227a58c183d2@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-ixz4cn075
-vless://e9e4f0a1-6424-4594-a495-db59303bb05c@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-a15bj7ra6
-vless://7d92a802-1b0f-4371-9e9e-c3b9800b483d@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-lb39r17z7
-vless://4711dea3-5da3-448e-8501-7ddb38443693@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-uuufojbk8
-vless://3692f9e7-f401-44ba-93b8-6ab86472bc58@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-bv1s0kxi9
-vless://d5ab78cc-eb8f-4098-8627-cfcbefcdabeb@x16spain.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-u6y0gt0210
+// Canada | x1-canada-ovh-v2.devefun.net
+trojan://LxNuKdvNDp@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://bPYN60qIpt@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://b7ctkgNquE@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://Uan0j0sgmC@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://uB8r1igRgy@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://e3FexsBYcc@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://AcENSEfLsh@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://i08xVjVqK6@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://7cGnqtD4Vo@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+trojan://UtMhV5qJdb@x1-canada-ovh-v2.devefun.net:1935?sni=x1-canada-ovh-v2.devefun.net#Telegram==@xStack
+vless://bff682b7-24cc-4d89-baeb-5fb604230eda@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://c3a5ac8b-806c-49a7-b779-25970029be98@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://3528ce17-968a-4be7-8c90-8920565ddab8@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://87b94228-c71f-4871-83bd-0c705072c481@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://f8c68671-882c-4bb9-9e95-a008370665f7@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://8e49261a-69c4-49bc-aff6-c5c2a9116ff3@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://876b2f80-1247-4ce6-a8b7-72220ba36154@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://7d708c5b-ee5e-46ae-a20f-31c94be6910e@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://c70e6bd1-5be5-4187-a14f-535e7a40aa77@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://bfe83dfd-c275-4741-b5b7-65e7c7a69e35@x1-canada-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
 
+// Germany | x1-germany-ovh-v2.devefun.net
+trojan://pqlnPNu423@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://l4uxnZQgG1@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://8qxNPL3aZX@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://NHiDNjANXX@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://HvivrSoUuf@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://4QprR6AyQI@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://83ySgvIA1u@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://KlCzb3Xmff@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://yAMvea0kr4@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+trojan://vp71wERJj9@x1-germany-ovh-v2.devefun.net:1935?sni=x1-germany-ovh-v2.devefun.net#Telegram==@xStack
+vless://05b3ceda-53f3-49af-97c2-a9fdb9915955@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://f0e4a25c-4cf9-441f-a4d7-ed0177ad1205@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://748a3a48-5980-4935-80b4-1ffc13004f8e@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://fd54e3f2-d612-4869-b05f-8879725c4701@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://e5af9e4c-76d8-42f7-a00f-0d2a980543f0@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://844ef40b-abc0-4d6c-8e16-c0673b01fd9b@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://fae30eff-086d-402b-8f5e-1398472344be@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://b2cd5518-41bc-4b73-af23-896cadf1d908@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://9796c79c-8134-4a28-a392-87f27b103ed8@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://51a3b18d-057d-40fc-a837-1cbfb11239d7@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
 
-// Spain ES
-// t.me/xstack/244179
-// x1es-ovh.devefun.net
-//---------------------------
-trojan://utF6JLQd2x@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-7604oc331
-trojan://NFDwfdTKse@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-xhe6b3ed2
-trojan://kkT0ZKni40@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-ax3ih4bt3
-trojan://iZruKAEAvn@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-gejqapug4
-trojan://FNTo2CH07C@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-bq2fegdv5
-trojan://JwmzPJ8PmG@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-kcla3kay6
-trojan://YytP1Y7guY@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-oxxkijvg7
-trojan://ihz8vcku5F@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-bd1t5tz08
-trojan://i7cQkXTLLC@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-rljjkg3w9
-trojan://Jo6P0F64Md@x1es-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1es-ovh.devefun.net#Telegram%3D%40xStack-jg9v9o0v10
-vless://bd32ab38-a01e-4e70-a727-459f666a5434@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-ees6jbzx1
-vless://a3327f09-ea8c-4818-a6ff-2fa054dec6d7@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-f1c7vr252
-vless://d0d8abf8-329c-42b8-bf94-0356c46eb7c3@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-jrcc1d0h3
-vless://f42e1ef4-f2ee-4471-9df8-c7d719897776@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-uubr2f2o4
-vless://3ee2bb98-8593-49e1-b4fe-5d2d581d507f@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-526lv6yf5
-vless://4f7e9862-77c2-4564-bffe-f7ab844d59c1@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-9l3uu02q6
-vless://23675362-1f5b-466f-a7e2-46f49a271821@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-enq8bqu87
-vless://66cf1548-f9f9-48b4-919b-be6166ca7111@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-2f5ugxld8
-vless://dc3dc2f2-6c13-4a3c-bba5-2584618603ef@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-9jk7wr069
-vless://292ae308-d489-4023-80d1-e5d5dd38269e@x1es-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-ja1g8v0m10
+// England | x1-england-ovh-v2.devefun.net
+trojan://klZqKyxq0H@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://HZDpRM6kRc@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://UYCt37eG4F@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://Y2FLiulzNT@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://bwU0aQd3re@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://1tVk1LIOnv@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://6LGgilkcOR@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://0q5ZkHeCvp@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://xIftYQu4hw@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+trojan://SRwJSk7baa@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#Telegram==@xStack
+vless://b418b2a0-e5f6-4ff5-a821-e487cee1fcdd@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://fd4b1650-2ffb-4738-9974-b4cd26df0659@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://534d6b32-ccc9-4391-a4a3-99f4a931b4e4@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://f7aea2c6-3431-409d-9aa8-ffabf6cf12cb@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://a3b6322c-7478-4a3e-a3d8-efcbe46095a3@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://e1704b7b-7dc8-4430-8c07-259c72c332c5@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://a72877c0-3088-487c-8f9a-641cb0b2dbf1@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://0ddba40d-7ad1-44d4-ba2b-51b56b41d3b2@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://aaaaab1e-531a-45a1-9a88-931059072835@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://a0750506-db21-4839-97a7-f727f53d4f5f@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
 
+// Poland | x1-poland-ovh-v2.devefun.net
+trojan://8Tmt35YGgZ@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://1T7WTjiFkz@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://jCG2c1prxJ@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://dsdgsIzmno@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://KqaH4UPKzG@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://W9CzKD0XW4@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://EY0SPwaQiW@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://yMEox0hv1l@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://DgXXwNkDh2@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://UyEpADgHko@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Telegram==@xStack
+vless://04d917a3-baf2-4e66-911f-0ee8c64cb7c9@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://8f3837bd-b636-4660-8a47-60b1d0853ee1@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://01ebe636-de0b-47c2-9a5f-49160109f7e8@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://1c892c2c-aa30-4c4a-bb75-1ff2dfe206a6@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://d408e152-76e0-4ec9-84c6-1a3e5b693f85@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://77395654-8732-4a7c-ba83-927d08becebc@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://0a41a239-73c4-4e3a-8a1a-c9343121f059@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://2cbacb09-e098-421f-b465-be7385b56c65@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://e07c88e2-8de3-4473-91b0-9cb737a88d64@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://1251d5d2-239f-4c06-9342-f3840cb63122@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
 
-// Germany GR
-// t.me/xstack/240382
-// x1ger-ionos.devefun.net
-//---------------------------
-trojan://0CeMwpcrBF@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-04bkxs8p1
-trojan://zITA4LqhhI@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-3m27966p2
-trojan://S3Cf30KtMV@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-qnd7kx1b3
-trojan://ktmUkMFsGd@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-hyqmujoc4
-trojan://WPWgMh18cn@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-gwbct3fx5
-trojan://tVVTdujQM8@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-mvqpchyx6
-trojan://OTczoThCvT@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-gugexnlj7
-trojan://gZ1hzMIGni@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-0ctlxkp98
-trojan://8X8utZIQME@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-pnuida4n9
-trojan://PYenZd3Dgc@x1ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ger-ionos.devefun.net#Telegram%3D%3D%40xStack-3fvl3zix10
-vless://d91e2add-3d91-4ab2-bcb2-c79404de717d@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-hivemwme1
-vless://bd270930-375a-4c9a-82f6-44dfc3d553ff@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-0nmx0fbw2
-vless://cee3987f-cb43-41ba-8d01-b134a7cb1127@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-0u33ifzt3
-vless://31459986-9037-462d-a19a-9525535c0b85@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-hxcl9mab4
-vless://8062d7a5-eed4-47ad-a6bc-304384b5563d@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-xyivnm585
-vless://5861e2f8-10a4-4597-910b-ede013ba0df6@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-meuj3znl6
-vless://35a6f793-440f-4477-92fe-4532ab1ea1ed@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-e4gey92b7
-vless://cb541dba-f427-4377-83e1-f87aa49784d8@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-soa3ipbj8
-vless://3767b1c9-ec0a-4f1f-96fe-3e2ffe73b933@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-74h8qfd39
-vless://0665fbe3-cc27-47cb-9d2d-5f53a245b41f@x1ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%3D%40Devefun-ydk2ahfz10
+// Sweden | x1-sweden-ovh-v2.devefun.net
+trojan://OLq0FfOlp7@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://5rQwXhBO9C@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://ypynkwxQKr@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://FzvGVxAHDl@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://R8ssiSfJfg@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://Rups6FdL5H@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://lVIW4dXRTr@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://Jabz9OaT7D@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://FciGPrdnUW@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+trojan://F1YYnLFZj2@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Telegram==@xStack
+vless://aa0334b6-bc38-4e90-86fb-c01774b66c5d@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://8e39123b-7b32-441d-b884-742342471a96@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://42125382-5691-4ef6-9ec0-69a5fecabef6@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://036cdafe-ba29-42e9-9cdb-4ee80078f28f@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://dfcbf9af-d9d3-4139-9255-9883d21c5709@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://16df6278-a94a-4c8e-b9b4-2740f0246fbb@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://7d25fb2a-d036-4e4b-886f-750285968e6b@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://dd854ecb-7a9e-4d52-a8e9-264724ad6302@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://1243197a-b1a4-407a-81b0-ca1364fc3520@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://505e4b91-c2df-4f0b-ad45-98b6adc53b0d@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
 
-
-// Germany GR
-// t.me/xstack/243988
-// x3ger-ionos.devefun.net
-//---------------------------
-trojan://JW6Um6weOi@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-00tk46lc1
-trojan://U1unBxD3gO@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-0d3b0epw2
-trojan://BsoNNOOd7E@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-wrgowrjl3
-trojan://bY7QSEwpPA@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-rukz48a04
-trojan://uHF8hCbU8Z@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-9ufirr3r5
-trojan://Un84igYQuF@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-g8rr0l9a6
-trojan://NrOhe3N3q7@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-ozu6qhyl7
-trojan://WcvPz9LaXN@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-pgp2bgjt8
-trojan://pvW42c7esJ@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-43wdep5w9
-trojan://v4lwjtQGmJ@x3ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x3ger-ionos.devefun.net#Telegram%3D%40xStack-7evc5fs310
-vless://eaa4a936-12e9-4333-8c14-e739dfdcef8e@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-k4mk8x461
-vless://e11a3789-2a6c-4d9e-9c24-66e25a2c2c45@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-1zrt8iv82
-vless://37992c36-64d6-42be-b61f-67de40933f46@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-7w02rx9c3
-vless://0920b267-4e0e-473c-bcc1-491b5d5b8b0e@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-hyxi4z344
-vless://8056bdb7-f4f0-49b9-823c-e7efb0c8d8f8@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-6ekz1eu85
-vless://876d1164-8267-463e-a125-2df130173a3e@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-o4e8jmsf6
-vless://a927a51c-c3ec-4cb2-87a2-f0a74e00f44b@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-u11qfap37
-vless://469162ae-0d18-4553-9991-06a71e21c535@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-ow5xu4t78
-vless://69f447f3-a57d-4d19-ad98-3bdd147dcb25@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-9knr5lwb9
-vless://ecb07fe5-4fe1-4e71-9cd5-518042941088@x3ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-5wu1k0xw10
-
-
-// Switch 🇨🇭
-// t.me/xstack/244180
-// x1ch-ovh.devefun.net
-//---------------------------
-trojan://hZ7JkYVAfB@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-5yd9dqb51
-trojan://6SFbmfJmng@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-djydl6ia2
-trojan://7pZeyBmT9n@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-fz7epwkp3
-trojan://xTs75sJOXu@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-ah7pnzx14
-trojan://Jq3kuKGhWn@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-a4gx1k235
-trojan://G2xH2yAoA4@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-d31rr1d86
-trojan://x1AIyFb4Ou@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-m9vsfg2k7
-trojan://kDWlUI8SgI@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-dfca5fog8
-trojan://KYXFoSqyM8@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-mk86ck4f9
-trojan://VpIP4NaOFG@x1ch-ovh.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x1ch-ovh.devefun.net#Telegram%3D%40xStack-gvbvk7hk10
-vless://d4db4bd6-6bf3-4d68-b90f-9bdb0e365ae1@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-koiwtllg1
-vless://ce2180c0-7eff-4343-a30b-5c629436cf5c@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-phgpxae62
-vless://14e46fa8-f2ba-435b-9bb4-67fdb7d88488@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-v4eo9o623
-vless://91ae3f8e-e63d-4ea1-854a-017c7f930834@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-bg7775554
-vless://c711cdb2-aabe-4e9a-8077-6d47f31bc79a@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-r0ub2kcg5
-vless://b58cc80c-96bd-491d-8977-8c6bbfd1e62d@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-wlz2xz1r6
-vless://322813d9-9b6b-43f1-838b-efa22d51c2dd@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-fx28ay2o7
-vless://be38c28d-02a3-4955-abfe-ad306d6333a2@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-ptde0ot08
-vless://baf8cc39-db93-48b6-9bd9-dbe2ebf99e33@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-2uqsiiho9
-vless://0bae4e43-674e-42cc-a182-8de99c393a0a@x1ch-ovh.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F&host=&security=none#Telegram%3D%40Devefun-whivgaoc10
-
-
-// Germany GR
-// t.me/xstack/246718
-// x4ger-ionos.devefun.net/
-//---------------------------
-trojan://I46LpSIM1f@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-per16qm71
-trojan://wvOhEctbvi@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-57fd5kqf2
-trojan://fQ5NXuDQkZ@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-68qm8w7k3
-trojan://0B5QxuLWlE@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-gtm6ly604
-trojan://SJqmC5O8Sh@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-l2r6k0ar5
-trojan://VjjtqCiqFH@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-yclmoyjd6
-trojan://K349lRmM4v@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-hl53t3qy7
-trojan://wkRjKJeDpB@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-mo08sk9h8
-trojan://OyxLy8CSZY@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-usgo8bww9
-trojan://rIYpMT9YlH@x4ger-ionos.devefun.net:1935?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=x4ger-ionos.devefun.net#Telegram%3D%40xStack-04foxmp410
-vless://604a8d3b-9c06-4568-9bcc-8b5f7875477a@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-sf4j7h5q1
-vless://dc046bbd-8965-486e-8bc4-e122a827ffd4@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-965g6cur2
-vless://f04c6bfc-4ed9-4392-92af-dafe21d533ac@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-36sbb22n3
-vless://b1d9a080-3777-48a2-9575-8aeba3c12bdb@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-raf2p2bw4
-vless://31254ee5-906f-432b-955b-8c43058496b1@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-77nu4cfb5
-vless://a9732c94-c8a1-4b3a-8f6e-4688cd224176@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-iej60b3l6
-vless://b103efc3-2dbb-43a6-b795-11d803216927@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-81i82yfu7
-vless://8d136fcc-9f0a-4a55-ac69-61eab9b68188@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-ek8vhjvq8
-vless://312887b2-0bd2-4122-9188-6736c5b07407@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-spzclw2h9
-vless://394308ba-c24f-4d71-8e76-7a524177f80d@x4ger-ionos.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=tcp&security=none#Telegram%3D%40Devefun-s34j7eca10
+// Finland | x1-finland-ovh-v2.devefun.net
+trojan://KNylbZ7f0N@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://xLiEiZaE3p@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://KD0zsF6tNy@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://K84fQqv8Kx@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://nW7VK5Ddyy@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://t6rJ3nxkoH@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://l7lGZev6lR@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://n79r7JEiMq@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://NpZrlGINdT@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+trojan://XGwYVZTuWp@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Telegram==@xStack
+vless://4a42f818-fb06-473d-83ed-9b473b0ff6a6@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://a2d8e992-f1a1-49f4-a394-cd4616553045@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://8691964f-89e4-4fb4-9df6-ead402e495fb@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://785ccfd4-02db-46ce-8faf-60cb8e0cd6a4@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://47022b47-ee39-44a1-ae31-80c66cd62aa8@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://c8af7eca-f2ec-469a-9c68-b2d8aefbb521@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://23854ee6-97e7-43e3-81f9-00fa817786c2@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://563026d0-60cf-47cc-8ee9-33d7d99b6b76@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://71ed0b3f-413a-448e-b08b-c49da0548aae@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun
+vless://ef472443-5714-49f4-b610-2678dd5ba53e@x1-finland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Telegram==@Devefun

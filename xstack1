@@ -44,27 +44,7 @@ vless://b2cd5518-41bc-4b73-af23-896cadf1d908@x1-germany-ovh-v2.we-are-team-xstac
 vless://9796c79c-8134-4a28-a392-87f27b103ed8@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Germany
 vless://51a3b18d-057d-40fc-a837-1cbfb11239d7@x1-germany-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Germany
 
-// England | x1-england-ovh-v2.devefun.net
-trojan://klZqKyxq0H@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://HZDpRM6kRc@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://UYCt37eG4F@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://Y2FLiulzNT@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://bwU0aQd3re@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://1tVk1LIOnv@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://6LGgilkcOR@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://0q5ZkHeCvp@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://xIftYQu4hw@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-trojan://SRwJSk7baa@x1-england-ovh-v2.devefun.net:1935?sni=x1-england-ovh-v2.devefun.net#England
-vless://b418b2a0-e5f6-4ff5-a821-e487cee1fcdd@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://fd4b1650-2ffb-4738-9974-b4cd26df0659@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://534d6b32-ccc9-4391-a4a3-99f4a931b4e4@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://f7aea2c6-3431-409d-9aa8-ffabf6cf12cb@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://a3b6322c-7478-4a3e-a3d8-efcbe46095a3@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://e1704b7b-7dc8-4430-8c07-259c72c332c5@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://a72877c0-3088-487c-8f9a-641cb0b2dbf1@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://0ddba40d-7ad1-44d4-ba2b-51b56b41d3b2@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://aaaaab1e-531a-45a1-9a88-931059072835@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
-vless://a0750506-db21-4839-97a7-f727f53d4f5f@x1-england-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#England
+
 
 // Poland | x1-poland-ovh-v2.devefun.net
 trojan://8Tmt35YGgZ@x1-poland-ovh-v2.devefun.net:1935?sni=x1-poland-ovh-v2.devefun.net#Poland
@@ -88,27 +68,6 @@ vless://2cbacb09-e098-421f-b465-be7385b56c65@x1-poland-ovh-v2.we-are-team-xstack
 vless://e07c88e2-8de3-4473-91b0-9cb737a88d64@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Poland
 vless://1251d5d2-239f-4c06-9342-f3840cb63122@x1-poland-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Poland
 
-// Sweden | x1-sweden-ovh-v2.devefun.net
-trojan://OLq0FfOlp7@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://5rQwXhBO9C@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://ypynkwxQKr@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://FzvGVxAHDl@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://R8ssiSfJfg@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://Rups6FdL5H@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://lVIW4dXRTr@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://Jabz9OaT7D@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://FciGPrdnUW@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-trojan://F1YYnLFZj2@x1-sweden-ovh-v2.devefun.net:1935?sni=x1-sweden-ovh-v2.devefun.net#Sweden
-vless://aa0334b6-bc38-4e90-86fb-c01774b66c5d@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://8e39123b-7b32-441d-b884-742342471a96@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://42125382-5691-4ef6-9ec0-69a5fecabef6@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://036cdafe-ba29-42e9-9cdb-4ee80078f28f@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://dfcbf9af-d9d3-4139-9255-9883d21c5709@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://16df6278-a94a-4c8e-b9b4-2740f0246fbb@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://7d25fb2a-d036-4e4b-886f-750285968e6b@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://dd854ecb-7a9e-4d52-a8e9-264724ad6302@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://1243197a-b1a4-407a-81b0-ca1364fc3520@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
-vless://505e4b91-c2df-4f0b-ad45-98b6adc53b0d@x1-sweden-ovh-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?type=ws&security=none#Sweden
 
 // Finland | x1-finland-ovh-v2.devefun.net
 trojan://KNylbZ7f0N@x1-finland-ovh-v2.devefun.net:1935?sni=x1-finland-ovh-v2.devefun.net#Finland
